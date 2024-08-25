@@ -33,10 +33,10 @@ const NavBar = () => {
                 About
               </Link>
               <Link
-                href="/upload"
+                href="/dashboard"
                 className="text-white hover:text-orange-400 px-3 py-2 rounded-md text-sm font-medium"
               >
-                Upload
+                Dashboard
               </Link>
               <Link
                 href="/projects"
